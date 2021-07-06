@@ -1,0 +1,145 @@
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+  margin-bottom: 0;
+
+}
+
+.bot-h3 {
+  color: #EAF6F6;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin-bottom: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 3px dotted #B8B5FF;
+  background-color: #F9F9F9;
+  border-width: 10px;
+  height: 0px;
+  width: 8%;
+  margin: 100px auto;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: 'Vollkorn', serif;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color: #A239EA;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+  font-weight: bolder;
+}
+p{
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top {
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.profile-picture {
+  height: 200px;
+  width: 200px
+}
+
+.cooking {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.programming {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.middle-container {
+  background-color: #F9F9F9;
+}
